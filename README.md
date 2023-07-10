@@ -23,7 +23,7 @@
 <div>
  <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,react,py,css,php,nodejs,selenium,ps,vscode,postman,linkedin,github" />
   </a>
 </p>
 </div>
